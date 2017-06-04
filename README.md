@@ -1,4 +1,6 @@
-# ReduxSimpleStarter
+# Redux Router Blog App
+
+Using react, redux, react-redux, react-router-dom, redux-form, lodash, and axios
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
